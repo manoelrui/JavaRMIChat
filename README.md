@@ -1,4 +1,4 @@
-## Synopsis
+## Resumo
 
 Este é um exemplo de um chat de bate papo simples usando JAVA RMI. 
 
@@ -14,7 +14,7 @@ A aplicação servidora, por podrão, está configurada para executar com o IP l
 
     user> java ChatServerImp
 
-Para inicializa a aplicação cliente será necessário passar como argumento para aplicação o endereço IP, porta e apelido do cliente. Por exemplo, é possivel inicializar o cliente da seguinte forma:
+Para inicializar a aplicação cliente será necessário passar como argumento externo para aplicação o endereço IP, porta e apelido do cliente. Por exemplo, é possivel inicializar o cliente da seguinte forma:
 
     user> java ChatClientImp 127.0.0.1 1091 joao_paulo
 
