@@ -1,0 +1,10 @@
+# Binary files 
+out/ 
+
+# MAC files
+.DS_Store
+
+# Intellij files 
+.idea/ 
+JavaRMIChat.iml
+
